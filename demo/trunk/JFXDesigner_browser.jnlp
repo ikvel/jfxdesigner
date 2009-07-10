@@ -22,7 +22,7 @@
         <jar href="xpp3_min-1.1.4c.jar"/>
     </resources>
     <applet-desc name="JFXDesigner" main-class="com.sun.javafx.runtime.adapter.Applet" width="780" height="560">
-        <param name="MainJavaFXScript" value="com.googlecode.jfxdesigner.DesignerUI">
+        <param name="MainJavaFXScript" value="com.jfxer.jfxdesigner.DesignerUI">
     </applet-desc>
     <update check="background">
 </jnlp>

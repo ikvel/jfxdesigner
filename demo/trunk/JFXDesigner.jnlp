@@ -21,7 +21,7 @@
         <jar href="xstream-1.3.1.jar"/>
         <jar href="xpp3_min-1.1.4c.jar"/>
     </resources>
-    <application-desc main-class="com.googlecode.jfxdesigner.DesignerUI">
+    <application-desc main-class="com.jfxer.jfxdesigner.DesignerUI">
     </application-desc>
     <update check="background">
 </jnlp>

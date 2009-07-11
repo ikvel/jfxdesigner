@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<jnlp spec="1.0+" codebase="http://jfxdesigner.googlecode.com/svn/demo/trunk/" href="JFXDesigner_browser.jnlp">
+<jnlp spec="1.0+" href="JFXDesigner_browser.jnlp">
     <information>
         <title>Vector Grphic Designer Written In JavaFX</title>
         <homepage href="http://jfxdesigner.googlecode.com/"/>
